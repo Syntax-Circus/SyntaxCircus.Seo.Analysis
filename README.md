@@ -1,5 +1,10 @@
 # SyntaxCircus.Seo.Analysis
 
+[![Build](https://github.com/Syntax-Circus/SyntaxCircus.Seo.Analysis/actions/workflows/build.yml/badge.svg)](https://github.com/Syntax-Circus/SyntaxCircus.Seo.Analysis/actions/workflows/build.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/Syntax-Circus/SyntaxCircus.Seo.Analysis/build.yml?label=tests)](https://github.com/Syntax-Circus/SyntaxCircus.Seo.Analysis/actions/workflows/build.yml)
+[![NuGet](https://img.shields.io/nuget/v/SyntaxCircus.Seo.Analysis.svg)](https://www.nuget.org/packages/SyntaxCircus.Seo.Analysis)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Headless .NET 10 analysis for content authors. MIT licensed. No ASP.NET, JavaScript, database, AI service, or other SyntaxCircus runtime dependency. HTML preparation uses AngleSharp 1.8.5.
 
 ```csharp
