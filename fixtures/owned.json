@@ -1,0 +1,314 @@
+[
+  {
+    "id": "home",
+    "input": {
+      "contentHtml": "<section data-section-id=\"hero\"><h1>Meet our dogs</h1><p>We raise our dogs at home and help families prepare for a new companion.</p><a href=\"/about\">Meet the family</a><img src=\"/hero.webp\" alt=\"Our adult dogs resting together in the garden\"></section><section data-section-id=\"dogs\" data-generated=\"\"><h2>Our dogs</h2><p>Daisy · Female · Adult</p><a href=\"/dogs/daisy\">Meet Daisy</a></section><section data-section-id=\"faq-shared\" data-shared-version=\"3\"><h2>When can we meet a puppy?</h2><p>Please contact us to arrange a visit. We will talk about the litter and answer your questions.</p></section>",
+      "title": "Meet our dogs · Example Breeder",
+      "metaDescription": "Meet our dogs at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/home",
+      "slug": "home",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "biography",
+    "input": {
+      "contentHtml": "<section data-section-id=\"intro\"><h1>Meet the family</h1><p>Our dogs are part of daily family life. We spend time with each puppy and help them become comfortable with ordinary household sounds.</p><h2>Our approach</h2><p>We welcome questions. Choosing a puppy takes time, and we want each family to feel prepared.</p><a href=\"/contact\">Contact us</a></section>",
+      "title": "Meet the family · Example Breeder",
+      "metaDescription": "Meet the family at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/biography",
+      "slug": "biography",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "contact",
+    "input": {
+      "contentHtml": "<section data-section-id=\"contact\"><h1>Contact us</h1><p>Have a question about our dogs or a future litter? Email us and tell us a little about your family. We will reply within two working days.</p><a href=\"mailto:hello@breeder.example\">Email our family</a><a href=\"/faq\">Read common questions</a></section>",
+      "title": "Contact us · Example Breeder",
+      "metaDescription": "Contact us at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/contact",
+      "slug": "contact",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "faq",
+    "input": {
+      "contentHtml": "<section data-section-id=\"heading\"><h1>Common puppy questions</h1></section><section data-section-id=\"faq-shared\" data-shared-version=\"3\"><h2>When can we meet a puppy?</h2><p>Please contact us to arrange a visit. We will talk about the litter and answer your questions.</p></section><section data-section-id=\"care\"><h2>What should we bring home?</h2><p>Prepare a quiet sleeping space, fresh water and the food your puppy already eats. We provide a care sheet and discuss the first few days together.</p><a href=\"/resources\">Puppy care resources</a></section>",
+      "title": "Common puppy questions · Example Breeder",
+      "metaDescription": "Common puppy questions at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/faq",
+      "slug": "faq",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "gallery",
+    "input": {
+      "contentHtml": "<section data-section-id=\"gallery\"><h1>Life with our dogs</h1><p>A few moments from our daily walks and play.</p><img src=\"/walk.webp\" alt=\"Daisy walking beside a garden path\"><img src=\"/play.webp\" alt=\"Two puppies playing with a soft toy\"><a href=\"/dogs\">Meet our dogs</a></section>",
+      "title": "Life with our dogs · Example Breeder",
+      "metaDescription": "Life with our dogs at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/gallery",
+      "slug": "gallery",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "article",
+    "input": {
+      "contentHtml": "<section data-section-id=\"article\"><h1>Preparing for your puppy</h1><p>Preparing for your puppy starts with a calm place to rest. Set up a sleeping space before your puppy arrives.</p><h2>A comfortable first night</h2><p>Keep water close by. Give your puppy time to settle. A familiar blanket can help. Stay nearby and use a quiet voice.</p><h2>Food and routine</h2><p>Use the same food for the first few days. Make changes slowly. Ask your vet about portions and keep fresh water available.</p><h2>Getting outside</h2><p>Check that the garden gate closes. Take short trips outside after meals and naps. Praise calm behavior and allow plenty of rest.</p><p><a href=\"/resources\">Read our care sheet</a> and speak with your vet about the right vaccination schedule.</p></section>",
+      "title": "Preparing for your puppy · Example Breeder",
+      "metaDescription": "Preparing for your puppy at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/article",
+      "slug": "article",
+      "focusPhrase": "preparing for your puppy",
+      "locale": "en_US",
+      "purpose": 1
+    }
+  },
+  {
+    "id": "truth-description-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-description-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-headings-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h4>A calm routine</h4><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-headings-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-image-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-image-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-phrase-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>daily life at home</h1><p>daily life at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Our family at home",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-phrase-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-stuffing-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a><p>Give your new companion a quiet place to sleep. Place the bed where your family spends time, away from busy doors. Keep a clean bowl nearby and check it throughout the day. Before the first night, walk through the house and put loose cables out of reach. Ask everyone to leave shoes and small toys in closed cupboards.</p><p>Plan a gentle routine with time outside after meals and naps. Stay close during the first few outings. Reward calm behavior and allow time to explore. Take a familiar blanket on the journey home. Let your new friend approach people at a comfortable pace. Keep introductions brief and allow long breaks for sleep.</p><p>Talk with your vet about health checks and the next vaccination appointment. Keep the food familiar for the first few days and make any changes slowly. Save the care sheet so everyone follows the same routine. If you are unsure about anything, contact us. We want families to feel prepared and welcome questions about the first weeks together.</p><p>puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care puppy care </p></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-stuffing-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a><p>Give your new companion a quiet place to sleep. Place the bed where your family spends time, away from busy doors. Keep a clean bowl nearby and check it throughout the day. Before the first night, walk through the house and put loose cables out of reach. Ask everyone to leave shoes and small toys in closed cupboards.</p><p>Plan a gentle routine with time outside after meals and naps. Stay close during the first few outings. Reward calm behavior and allow time to explore. Take a familiar blanket on the journey home. Let your new friend approach people at a comfortable pace. Keep introductions brief and allow long breaks for sleep.</p><p>Talk with your vet about health checks and the next vaccination appointment. Keep the food familiar for the first few days and make any changes slowly. Save the care sheet so everyone follows the same routine. If you are unsure about anything, contact us. We want families to feel prepared and welcome questions about the first weeks together.</p></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-repeat-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-repeat-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-long-bad",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in We prepare a comfortable place for the puppy and discuss everyday routines with each family while explaining how we help them settle in .</p></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "truth-long-good",
+    "input": {
+      "contentHtml": "<section data-section-id=\"main\"><h1>Puppy care at home</h1><p>Puppy care at home begins with a quiet bed and fresh water. Plan short walks and regular meals.</p><h2>A calm routine</h2><p>Allow time for rest. Ask your vet about safe exercise.</p><img src=\"/puppy.webp\" alt=\"A puppy resting on a clean blanket\"><a href=\"/care\">Read our care guide</a></section>",
+      "title": "Puppy care at home · Example Breeder",
+      "metaDescription": "Puppy care at home at Example Breeder. Find clear information about our dogs, everyday care and the next steps for families.",
+      "canonicalUrl": "https://breeder.example/truth-good",
+      "slug": "truth-good",
+      "focusPhrase": "puppy care",
+      "locale": "en_US",
+      "purpose": 0
+    }
+  },
+  {
+    "id": "hybrid-passive-heavy",
+    "input": {
+      "contentHtml": "<article data-section-id=\"writing\"><h1>Getting ready for a puppy</h1><p>The sleeping area was prepared before the puppy arrived. Fresh water was placed beside the door. The feeding plan was explained to each family. A quiet space was provided for the first night. The blanket was washed before the journey. The garden gate was checked before the visit. The toys were collected after play. The first appointment was booked with the vet. The care sheet was shared with the family. The travel plan was discussed before collection.</p></article>",
+      "title": "Getting ready for a puppy",
+      "metaDescription": "Practical steps to prepare a quiet sleeping area, fresh water and a gentle daily routine before bringing a puppy home.",
+      "canonicalUrl": "https://breeder.example/hybrid-passive-heavy",
+      "slug": "hybrid-passive-heavy",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 1
+    }
+  },
+  {
+    "id": "hybrid-active-rewrite",
+    "input": {
+      "contentHtml": "<article data-section-id=\"writing\"><h1>Getting ready for a puppy</h1><p>We prepared the sleeping area before the puppy arrived. We placed fresh water beside the door. We explained the feeding plan to each family. We provided a quiet space for the first night. We washed the blanket before the journey. We checked the garden gate before the visit. We collected the toys after play. We booked the first appointment with the vet. We shared the care sheet with the family. We discussed the travel plan before collection.</p></article>",
+      "title": "Getting ready for a puppy",
+      "metaDescription": "Practical steps to prepare a quiet sleeping area, fresh water and a gentle daily routine before bringing a puppy home.",
+      "canonicalUrl": "https://breeder.example/hybrid-active-rewrite",
+      "slug": "hybrid-active-rewrite",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 1
+    }
+  },
+  {
+    "id": "hybrid-unconnected",
+    "input": {
+      "contentHtml": "<article data-section-id=\"writing\"><h1>Getting ready for a puppy</h1><p>Families prepared the sleeping area before the puppy arrived. Families placed fresh water beside the door. Families explained the feeding plan to each family. Families provided a quiet space for the first night. Families washed the blanket before the journey. Families checked the garden gate before the visit. Families collected the toys after play. Families booked the first appointment with the vet. Families shared the care sheet with the family. Families discussed the travel plan before collection.</p></article>",
+      "title": "Getting ready for a puppy",
+      "metaDescription": "Practical steps to prepare a quiet sleeping area, fresh water and a gentle daily routine before bringing a puppy home.",
+      "canonicalUrl": "https://breeder.example/hybrid-unconnected",
+      "slug": "hybrid-unconnected",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 1
+    }
+  },
+  {
+    "id": "hybrid-connected",
+    "input": {
+      "contentHtml": "<article data-section-id=\"writing\"><h1>Getting ready for a puppy</h1><p>First, we prepared the sleeping area before the puppy arrived. Next, we placed fresh water beside the door. Also, we explained the feeding plan to each family. Finally, we provided a quiet space for the first night. First, we washed the blanket before the journey. Next, we checked the garden gate before the visit. Also, we collected the toys after play. Finally, we booked the first appointment with the vet. First, we shared the care sheet with the family. Next, we discussed the travel plan before collection.</p></article>",
+      "title": "Getting ready for a puppy",
+      "metaDescription": "Practical steps to prepare a quiet sleeping area, fresh water and a gentle daily routine before bringing a puppy home.",
+      "canonicalUrl": "https://breeder.example/hybrid-connected",
+      "slug": "hybrid-connected",
+      "focusPhrase": null,
+      "locale": "en_US",
+      "purpose": 1
+    }
+  }
+]
